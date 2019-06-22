@@ -1,4 +1,4 @@
-### 这是我的项目[huawei-music](https://github.com/CharlieSmith97/huawei-music/)的模拟数据的repo
+### 这是我的项目[huawei-music](https://github.com/ProbeDream/huawei-music/)的模拟数据的repo
 
 ### 作者:ProbeDream
 
@@ -7,7 +7,7 @@
     1.通过Ajax或者是fetch对提供的API进行请求操作
 
 ```js
-fetch("https://charliesmith97.github.io/mock-data/resource/music-list.json")
+fetch("https://ProbeDream.github.io/mock-data/resource/music-list.json")
   .then(() => {
     //TODO
   })
@@ -33,7 +33,7 @@ $.ajax({
 　　});
 ```
 ### 提问:
-> 有问题可以在[Issue](https://github.com/CharlieSmith97/mock-data/issues)提问
+> 有问题可以在[Issue](https://github.com/ProbeDream/mock-data/issues)提问
 
 ### 联系方式:
 我的邮箱:Gump1016@163.com
