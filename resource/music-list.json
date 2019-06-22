@@ -4,31 +4,31 @@
     "title": "水星记",
     "author": "郭顶",
     "albumn": "飞行器的执行周期",
-    "lyric": "https://charliesmith97.github.io/mock-data/resource/lyric_水星记.json",
-    "url": "https://charliesmith97.github.io/mock-data/resource/水星记.mp3"
+    "lyric": "https://ProbeDream.github.io/mock-data/resource/lyric_水星记.json",
+    "url": "https://ProbeDream.github.io/mock-data/resource/水星记.mp3"
   },
   {
     "id": "1",
     "title": "后来的我们",
     "author": "五月天",
     "albumn": "后来的我们",
-    "lyric": "https://charliesmith97.github.io/mock-data/resource/lyric_后来的我们.json",
-    "url": "https://charliesmith97.github.io/mock-data/resource/后来的我们.mp3"
+    "lyric": "https://ProbeDream.github.io/mock-data/resource/lyric_后来的我们.json",
+    "url": "https://ProbeDream.github.io/mock-data/resource/后来的我们.mp3"
   },
   {
     "id": "2",
     "title": "假装",
     "author": "陈雪凝",
     "albumn": "拾陆",
-    "lyric": "https://charliesmith97.github.io/mock-data/resource/lyric_假装.json",
-    "url": "https://charliesmith97.github.io/mock-data/resource/假装.mp3"
+    "lyric": "https://ProbeDream.github.io/mock-data/resource/lyric_假装.json",
+    "url": "https://ProbeDream.github.io/mock-data/resource/假装.mp3"
   },
   {
     "id": "3",
     "title": "烦恼歌",
     "author": "张学友",
     "albumn": "在你身边",
-    "lyric": "https://charliesmith97.github.io/mock-data/resource/lyric_烦恼歌.json",
-    "url": "https://charliesmith97.github.io/mock-data/resource/烦恼歌.mp3"
+    "lyric": "https://ProbeDream.github.io/mock-data/resource/lyric_烦恼歌.json",
+    "url": "https://ProbeDream.github.io/mock-data/resource/烦恼歌.mp3"
   }
 ]
